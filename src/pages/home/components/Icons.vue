@@ -76,7 +76,7 @@ export default {
         .icon-img-content
           display :block
           margin : 0.2rem auto
-          height:100%
+          height:80%
       .icon-desc
         position :absolute
         left:0
